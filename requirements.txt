@@ -1,0 +1,10 @@
+fastapi == 0.58.0
+uvicorn
+aiofiles
+Jinja2
+opencv-python-headless
+python-multipart
+nbdev == 1.1.12
+pytesseract == 0.3.4
+setuptools == 47.1.1
+torch_snippets == 0.306
